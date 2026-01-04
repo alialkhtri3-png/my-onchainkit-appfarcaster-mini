@@ -71,3 +71,10 @@ Your support helps keep this project open-source and actively maintained.
 # My OnchainKit Farcaster Mini App
 ...If this project saved you time or helped you build faster, consider supporting it.
 Even small contributions make a big difference.
+### 💼 Services
+I also offer paid services:
+- Farcaster Mini App setup
+- OnchainKit integration
+- Web3 MVP development
+
+Contact: GitHub Issues or Farcaster DM

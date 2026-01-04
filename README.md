@@ -24,29 +24,29 @@ Web3 development workflow.
 ---
 
 ## ✨ Features
-- Web3-ready architecture  
-- Built with Next.js  
-- OnchainKit integration  
-- Base network support  
-- Designed for Farcaster Frames & Mini Apps  
+- Web3-ready architecture
+- Built with Next.js
+- OnchainKit integration
+- Base network support
+- Designed for Farcaster Frames & Mini Apps
 - Mobile-first development workflow (Termux on Android)
 
 ---
 
 ## 🚀 Use Cases
-- Farcaster Mini Apps  
-- Onchain identity & interaction tools  
-- Social Web3 applications  
-- Web3 experiments and demos  
+- Farcaster Mini Apps
+- Onchain identity & interaction tools
+- Social Web3 applications
+- Web3 experiments and demos
 
 ---
 
 ## 🛠 Tech Stack
-- Next.js  
-- TypeScript  
-- OnchainKit  
-- Farcaster  
-- Base Network  
+- Next.js
+- TypeScript
+- OnchainKit
+- Farcaster
+- Base Network
 - Termux (Android)
 
 ---

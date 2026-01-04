@@ -65,3 +65,8 @@ If you find this project useful and want to support its development:
 
 Your support helps keep this project open-source and actively maintained.  
 دعمك يساعد في استمرار تطوير المشروع كمصدر مفتوح وبجودة أعلى.
+[![Backers on Open Collective](https://opencollective.com/ali-termux-tools/tiers/backer/badge.svg?label=Backers&color=brightgreen)](https://opencollective.com/ali-termux-tools)
+[![Backers on Open Collective](https://opencollective.com/ali-termux-tools/tiers/backer/badge.svg?label=Backers&color=brightgreen)](https://opencollective.com/ali-termux-tools)
+
+# My OnchainKit Farcaster Mini App
+...

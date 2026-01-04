@@ -69,4 +69,5 @@ Your support helps keep this project open-source and actively maintained.
 [![Backers on Open Collective](https://opencollective.com/ali-termux-tools/tiers/backer/badge.svg?label=Backers&color=brightgreen)](https://opencollective.com/ali-termux-tools)
 
 # My OnchainKit Farcaster Mini App
-...
+...If this project saved you time or helped you build faster, consider supporting it.
+Even small contributions make a big difference.

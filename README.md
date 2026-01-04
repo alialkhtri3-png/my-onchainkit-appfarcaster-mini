@@ -36,3 +36,4 @@ If you find this project useful and want to support its development:
 👉 https://opencollective.com/ALI_COLLECTIVE_NAME
 
 Your support helps keep this project open-source and actively maintained.
+https://github.com/alialkhtri3-png/my-onchainkit-appfarcaster-mini

@@ -84,6 +84,8 @@ I hereby confirm that I am the sole controller of the following Ethereum address
 0xb45a7510eaad1ef02cfad55c67c0ea084cdd40d2
 This identity has been verified using Sign-In With Ethereum (SIWE – EIP-4361), a cryptographic authentication standard that proves wallet ownership through message signing, without sharing private keys or passwords.
 Authentication Details:
+
+![CI](https://github.com/alialkhtri3-png/Sovereign-Identity-Protocol/actions/workflows/test.yml/badge.svg)
 Standard: EIP-4361 (SIWE)
 Account Identifier (CAIP-10):
 eip155:1:0xb45a7510eaad1ef02cfad55c67c0ea084cdd40d2
